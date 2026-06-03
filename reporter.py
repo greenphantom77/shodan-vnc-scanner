@@ -18,7 +18,7 @@ import datetime
 # v2.0 - 2024-11-08 - Refactoring completo
 # v2.1 - 2025-01-15 - Bugfixes
 #
-# Contacto: rambonadeo1995@gmail.com
+# Para bugs o consultas escribir a: rambonadeo1995@gmail.com
 # Telegram: @GreenPhantomOps
 # Blog: greenphantom.netlify.app
 # ================================================================
