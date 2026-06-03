@@ -4,8 +4,6 @@
 """
 shodan-vnc-scanner v2.1
 Autor: GreenPhantom
-Contacto: rambonadeo1995@gmail.com
-Ubicacion: Florencio Varela, GBA Sur, Argentina
 Ultima actualizacion: 2025-01-15
 
 Busca sistemas VNC expuestos en infraestructura industrial usando Shodan.
